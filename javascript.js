@@ -126,7 +126,7 @@ function won(){
         document.querySelector("#four").style.backgroundColor="#7de68b"
         document.querySelector("#seven").style.backgroundColor="#7de68b"
          
-    }else if ( p1.textContent==="o" && p5.textContent==="o" && p9.textContent==="x"){
+    }else if ( p1.textContent==="o" && p5.textContent==="o" && p9.textContent==="o"){
         document.querySelector("#r").style.display="block"
         document.querySelector("#r").innerHTML="Player O won"
         document.querySelector("#one").style.backgroundColor="#7de68b"
